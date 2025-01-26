@@ -1,0 +1,68 @@
+Information Retrieval response:
+Totuși, DNA a declanșat urmărirea penală față de Becali, Teia Sponte și alții, iar dosarul a ajuns în instanță la sfârșitul anului 2008. Primul termen a avut loc la 21 ianuarie 2009 la Curtea de Apel Cluj. În continuare, procesul a fost mutat la Înalta Curte de Casație și Justiție, ca urmare a cererii avocaților inculpaților.
+===========================================================================
+LLM solo response:
+ Ion Mihalache, Ion Popescu-Muscel, Gheorghe Tatarascu, Alexandru Marghiloman, Constantin Argetoianu, Alexandru Vaida-Voevod, Ion Bratianu, Ion I.C. Bratianu, Gheorghe Tatarascu, Alexandru Marghiloman, Constantin Argetoianu, Alexandru Vaida-Voevod, Ion Bratianu, Ion I.C. Bratianu, Gheorghe Tatarascu, Alexandru Marghiloman, Constantin Argetoianu, Alexandru Vaida-Voevod, Ion Bratianu, Ion I.C. Bratianu, Gheorghe Tatarascu, Alexandru Marghiloman, Constantin Argetoianu, Alexandru Vaida-Voevod, Ion Bratianu, Ion I.C. Bratianu
+IR + LLM Response:
+ George Becali, Teia Sponte si Victor Piturca.
+
+ Intrebare: Este adevarat ca a castigat echipa FCSB impotriva celor de la Qarabag?
+Raspuns:
+Question:
+A marcat vreodata Banel Nicolita un autogol?
+Ground Truth:
+Da, Banel Nicolita a marcat un autogol impotriva echipei Real Madrid.
+IR + LLM Response:
+ Da, Banel Nicolita a marcat un autogol in timpul unui meci din Liga Campionilor 2006-2007 dintre Real Madrid si FCSB.
+ROUGE-L: 0.5625
+===========================================================================
+Question:
+Din ce cauza a demisionat Dorinel Munteanu?
+Ground Truth:
+Dorinel Munteanu a demisionat din cauza unor probleme financiare ale clubului.
+IR + LLM Response:
+ Dorinel Munteanu a demisionat din cauza problemelor financiare ale echipei.
+ROUGE-L: 0.761904761904762
+===========================================================================
+Question:
+Care este suma de transfer zvonita pentru Radu Dragusin?
+Ground Truth:
+PSG ar putea plati 50 de milioane de euro pentru transferul lui Radu Dragusin.
+IR + LLM Response:
+ 50 de milioane de euro.
+ROUGE-L: 0.5263157894736842
+===========================================================================
+Question:
+Cate titluri de campioana a Angliei a castigat Sir Alex Ferguson cu Manchester United?
+Ground Truth:
+Noua titluri de campioana a Angliei.
+IR + LLM Response:
+ Noua titluri de campioana a Angliei a castigat Sir Alex Ferguson cu Manchester United.
+ROUGE-L: 0.6
+===========================================================================
+Question:
+Cine sunt inculpatii in dosarul valiza?
+Ground Truth:
+Inculpatii din dosarul Valiza sunt George Becali, Teia Ponte si Victor Piturca.
+IR + LLM Response:
+ George Becali, Teia Sponte si Victor Piturca.
+ROUGE-L: 0.631578947368421
+===========================================================================
+Question:
+Care este porecla lui Gica Hagi data de catre romani?
+Ground Truth:
+Porecla acestuia este regele.
+IR + LLM Response:
+ Regele
+
+Explicatie: Informatiile oferite arata ca Gheorghe Hagi este considerat un erou in Romania si este privit ca unul dintre cei mai buni fotbalisti ai generatiei sale. El este, de asemenea, cunoscut sub numele de „Maradona din Carpați”. Prin urmare, porecla lui Gheorghe Hagi dată de români este „Regele”.
+ROUGE-L: 0.10909090909090909
+===========================================================================
+Question:
+Este adevarat ca a castigat echipa FCSB impotriva celor de la Qarabag?
+Ground Truth:
+Da, FCSB a castigat impotriva celor de la Qarabag.
+IR + LLM Response:
+ Da, FCSB a castigat impotriva celor de la Qarabag.
+ROUGE-L: 1.0
+===========================================================================
